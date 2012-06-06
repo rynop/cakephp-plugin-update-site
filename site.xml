@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/com.myezteam.cakephp.feature_1.0.0.201206061248.jar" id="com.myezteam.cakephp.feature" version="1.0.0.201206061248">
+   <feature url="features/com.myezteam.cakephp.feature_1.0.0.201206061351.jar" id="com.myezteam.cakephp.feature" version="1.0.0.201206061351">
       <category name="com.myezteam.cakephp.category"/>
    </feature>
    <category-def name="com.myezteam.cakephp.category" label="CakePHP">
